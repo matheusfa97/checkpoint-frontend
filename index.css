@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Dancing+Script:wght@500&family=Roboto:wght@500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Dancing Script', cursive;
+    background-image: url("https://viagempedia.com.br/wp-content/uploads/2020/10/1600px-Porto_Alegre_vista_a_partir_do_Morro_Santa_Teresa-1200x752.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+
+
+h1 {
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: bisque;
+  
+}
+
+p {
+    margin-top: 80px;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: lighter;
+    font-family: 'Crimson Text', serif;
+    color:white
+   
+    
+}
+
+header{
+    background-color: darkslategray;
+    padding: 12px 32px;
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+    
+}
+
+iframe {
+    width: 1280px;
+    height: 720px;
+    position: relative;
+    left: 340px;
+    bottom: -10px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    
+}
+
+h2 {
+    color: bisque;
+    padding: 10px;
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    font-size: 32px;
+    font-style: oblique;
+    }
+
+.list {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+    font-style: oblique;
+    margin-top: 10px;
+    text-align: center;
+    list-style-type: none;
+}
+
+
+
+.icones {
+        
+        margin: 20px;
+        width: 70px;
+        height: 70px;
+        position: relative;
+        left: 850px;
+}
+
+
+  
+    
+
